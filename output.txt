@@ -1,0 +1,7 @@
+Running prgm1 with 0 addresses
+Class A had 128 networks
+Largest A network is 4999 with 1 host
+Class B had 1951 networks
+Largest B network is 6811 with 8000 host
+Class C had 987 networks
+Largest C network is 1 with 1674518776 host
